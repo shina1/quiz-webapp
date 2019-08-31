@@ -1,0 +1,69 @@
+[
+
+    {
+        "question": "Inside which HTML element do we put the javascript",
+        "choice1": "<script>",
+        "choice2": "<javascript>",
+        "choice3": "<js>",
+        "choice4": "<link>",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct syntax for reffering to an external script called 'index.js'? ",
+        "choice1": "<script href='index.js'>",
+        "choice2": "<script rel='index.js'>",
+        "choice3": "<script type='index.js'>",
+        "choice4": "<script src='index.js'>",
+        "answer": 4
+    },  
+    { 
+        "question": "How do you write 'Hello world' in an alert box?",
+        "choice1": "msgBox('Hello World)",
+        "choice2": "alert('Hello World')",
+        "choice3": "alertMsg('Hello World')",
+        "choice4":"alert['Hello World']",
+        "answer": 2
+    },
+    {
+        "question": "var numb = [1,2,3,4,5], numb is an example of what?",
+        "choice1": "Synthax",
+        "choice2": "Object",
+        "choice3": "Array",
+        "choice4": "function",
+        "answer": 3
+    },
+    {
+        "question": "Which is the synthax for measuring the lenght of an Array?",
+        "choice1": "Array.measure",
+        "choice2": "lengthOf.Array",
+        "choice3": "Array.lenght",
+        "choice4": "Array.size",
+        "answer": 3 
+    },
+    {
+        "question": "To convert an Array in the local storage to a string, we use ?",
+        "choice1": "JSONToString",
+        "choice2": "JSONstringify",
+        "choice3": "JSON.string",
+        "choice4": "None of the above",
+        "answer": 2
+    },
+    {
+        "question": "Values are stored in the local storage in form of ?",
+        "choice1": "String",
+        "choice2": "Array",
+        "choice3": "Binary",
+        "choice4": "Objects",
+        "answer": 1
+
+    },
+    {
+        "question": "---- is used to convert a String to an Array ?",
+        "choice1": "JSON.array",
+        "choice2": "JSON['array']",
+        "choice3": "JSON.parse",
+        "choice4": "Array.string",
+        "answer":  3
+    }
+
+]
