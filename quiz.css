@@ -210,3 +210,26 @@ input::placeholder{
     transform:scale(1.25);
     color: rgb(47, 161, 255);
 }
+
+/* loader */
+
+#loader{
+    /* border: 1.6rem solid #fff; */
+    border-radius: 30%;
+    border: 1.6rem solid #56a5eb;
+    width: 12rem;
+    height: 12rem;
+    animation: spin 2s linear infinite;
+}
+
+/* animation for spinning loader */
+
+@keyframes spin{
+    0%{
+        transform: rotate(0deg);
+    }
+
+    100%{
+        transform: rotate(360deg);
+    }
+}
